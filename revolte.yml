@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: DemoProject
-  appName: revolte-demo-webapp
+  project: test
+  appName: tester
   env:
     production:
       branch: main
